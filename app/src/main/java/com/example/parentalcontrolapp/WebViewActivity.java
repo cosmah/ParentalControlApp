@@ -7,7 +7,7 @@ import android.webkit.WebViewClient;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class WebViewActivity extends AppCompatActivity {
-    private static final String[] BLOCKED_WEBSITES = {"blockedwebsite.com"};
+    private static final String[] BLOCKED_WEBSITES = {"carfiq.com"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

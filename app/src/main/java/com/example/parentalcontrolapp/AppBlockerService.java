@@ -13,7 +13,7 @@ import java.util.SortedMap;
 import java.util.TreeMap;
 
 public class AppBlockerService extends Service {
-    private static final String[] BLOCKED_APPS = {"com.example.blockedapp1", "com.example.blockedapp2"};
+    private static final String[] BLOCKED_APPS = {"com.zhiliaoapp.musically"};
 
     @Override
     public int onStartCommand(Intent intent, int flags, int startId) {
